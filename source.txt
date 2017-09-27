@@ -11,5 +11,5 @@ Mark
 #CCTV10#http://r.gslb.lecloud.com/live/hls/201706223000000c199/desc.m3u8#
 #CCTV11#http://r.gslb.lecloud.com/live/hls/201706223000000c499/desc.m3u8#
 #CCTV12#http://r.gslb.lecloud.com/live/hls/201706223000000c599/desc.m3u8#
-#JSWS#http://r.gslb.lecloud.com/live/hls/201706223000000dh99/desc.m3u8#
+#CCTV13#http://r.gslb.lecloud.com/live/hls/201706223000000c699/desc.m3u8#
 Mark
