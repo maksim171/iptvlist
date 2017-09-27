@@ -4,4 +4,5 @@ Mark
 #CCTV5#http://api_p.tll888.com/v/cctv5.php#
 #CCTV6#http://api_p.tll888.com/migu.php?id=624878396#
 #CCTV8#http://api_p.tll888.com/migu.php?id=624878356#
+#JSWS#http://r.gslb.lecloud.com/live/hls/201706223000000dh99/desc.m3u8#
 Mark
