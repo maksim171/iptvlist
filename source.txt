@@ -1,7 +1,7 @@
 Mark
-#cctv1#http://r.gslb.lecloud.com/live/hls/201706223000000b899/desc.m3u8#
-#cctv3#http://api_p.tll888.com/migu.php?id=624878271#
-#cctv5#http://api_p.tll888.com/v/cctv5.php#
-#cctv6#http://api_p.tll888.com/migu.php?id=624878396#
-#cctv8#http://api_p.tll888.com/migu.php?id=624878356#
+#CCTV1#http://r.gslb.lecloud.com/live/hls/201706223000000b899/desc.m3u8#
+#CCTV3#http://api_p.tll888.com/migu.php?id=624878271#
+#CCTV5#http://api_p.tll888.com/v/cctv5.php#
+#CCTV6#http://api_p.tll888.com/migu.php?id=624878396#
+#CCTV8#http://api_p.tll888.com/migu.php?id=624878356#
 Mark
