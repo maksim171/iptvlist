@@ -12,4 +12,5 @@ Mark
 #CCTV11#http://r.gslb.lecloud.com/live/hls/201706223000000c499/desc.m3u8#
 #CCTV12#http://r.gslb.lecloud.com/live/hls/201706223000000c599/desc.m3u8#
 #CCTV13#http://r.gslb.lecloud.com/live/hls/201706223000000c699/desc.m3u8#
+#FHWS#http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8#
 Mark
