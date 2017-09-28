@@ -5,7 +5,7 @@ Mark
 #CCTV4#http://r.gslb.lecloud.com/live/hls/201706223000000bk99/desc.m3u8#
 #CCTV5#http://183.252.176.44//PLTV/88888888/224/3221225925/index.m3u8#
 #CCTV6#http://live.aikan.miguvideo.com/wd_r2/ocn/cctv6hd/1200/01.m3u8#
-#CCTV7#http://live.aikan.miguvideo.com/wd_r2/ocn/cctv6hd/1200/01.m3u8#
+#CCTV7#http://183.58.12.213:30001/PLTV/88888956/224/3221227695/1.m3u8#
 #CCTV8#http://117.169.120.217:8080/PLTV/88888888/224/3221225636/index.m3u8#
 #CCTV9#http://r.gslb.lecloud.com/live/hls/201706223000000bz99/desc.m3u8#
 #CCTV10#http://r.gslb.lecloud.com/live/hls/201706223000000c199/desc.m3u8#
