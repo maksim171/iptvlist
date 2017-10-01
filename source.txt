@@ -8,7 +8,7 @@ Mark
 #CCTV7#http://183.58.12.213:30001/PLTV/88888956/224/3221227695/1.m3u8#
 #CCTV8#http://117.169.120.217:8080/PLTV/88888888/224/3221225636/index.m3u8#
 #CCTV9#http://r.gslb.lecloud.com/live/hls/201706223000000bz99/desc.m3u8#
-#CCTV10#http://r.gslb.lecloud.com/live/hls/201706223000000c199/desc.m3u8#
+#CCTV10#http://cctv10.vtime.cntv.wscdns.com:8000/live/no/234_/seg0/index.m3u8?amode=1&AUTH=cntv0001201706235BHd0OFkalJskZ29ecNNk13gvLfwWx8PjFNtZEPG44UBiWAI5I7IazqLwmVAKZoF8Tt4ITM+7l9aGjxOZp0n7w==#
 #CCTV11#http://r.gslb.lecloud.com/live/hls/201706223000000c499/desc.m3u8#
 #CCTV12#http://r.gslb.lecloud.com/live/hls/201706223000000c599/desc.m3u8#
 #CCTV13#http://r.gslb.lecloud.com/live/hls/201706223000000c699/desc.m3u8#
